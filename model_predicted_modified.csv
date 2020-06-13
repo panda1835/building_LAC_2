@@ -1,0 +1,169 @@
+,Name,Ranking,Model predicted ranking,Model predicted ranking-endowment,Peer Assessment,Model predicted peer assessment
+0,Williams College,1,-13.0,17.0,4.7,4.4
+1,Amherst College,2,-10.0,16.0,4.6,4.37
+2,Swarthmore College,3,-11.0,14.0,4.6,4.42
+3,Wellesley College,3,3.0,29.0,4.5,4.24
+4,Pomona College,5,-9.0,14.0,4.5,4.42
+5,Bowdoin College,6,7.0,28.0,4.4,4.2
+6,Carleton College,7,15.0,50.0,4.3,4.13
+7,Claremont McKenna College,7,11.0,38.0,4.3,4.13
+8,Middlebury College,7,15.0,50.0,4.3,4.09
+9,Washington and Lee University,10,4.0,34.0,3.9,4.23
+10,Colby College,11,23.0,51.0,4.1,4.09
+11,Haveford College,11,3.0,52.0,4.2,4.37
+12,Smith College,11,20.0,37.0,4.3,4.0
+13,Grinnel College,14,18.0,19.0,4.2,4.02
+14,Hamliton College,14,17.0,44.0,3.9,4.13
+15,Colgate College,17,24.0,60.0,4.1,4.03
+16,United State Naval Academy,17,39.0,109.0,4.3,3.68
+17,Wesleyan University,17,30.0,57.0,4.1,3.78
+18,Bates College,21,43.0,78.0,4.1,3.69
+20,Harvey Mudd College,23,5.0,55.0,4.4,4.25
+21,University of Richmond,23,35.0,43.0,4.0,3.76
+22,Barnard College,25,25.0,85.0,4.0,4.08
+23,Macalester College,25,34.0,56.0,4.0,3.85
+24,Bryn Mawr College,27,33.0,43.0,4.1,3.8
+25,College of the Holy Cross,27,35.0,66.0,3.6,3.79
+26,Colorado College,27,22.0,57.0,3.9,4.05
+27,Kenyon College,27,49.0,68.0,3.9,3.66
+28,Soka University of America,27,27.0,-10.0,2.6,3.6
+29,Mount Holyoke College,32,50.0,57.0,3.9,3.55
+30,Oberlin College,33,49.0,57.0,3.9,3.62
+31,Scripps College,33,37.0,57.0,3.9,3.89
+32,Bucknell University,35,41.0,69.0,3.9,3.72
+33,Pitzer College,35,47.0,87.0,3.8,3.73
+34,Thomas Aquinas College,35,56.0,111.0,3.9,3.74
+35,Franklin and Marshall College,38,46.0,79.0,3.7,3.69
+36,Lafayette College,39,42.0,58.0,3.6,3.68
+37,Occidental College,39,54.0,71.0,3.8,3.6
+38,Skidmore College,39,57.0,83.0,3.6,3.38
+39,United States Air Force Academy,39,58.0,136.0,4.2,3.48
+40,Denison University,43,44.0,54.0,3.5,3.76
+41,The University of the South,43,72.0,69.0,3.6,3.24
+42,Union College,45,43.0,72.0,3.4,3.75
+43,Berea College,46,84.0,34.0,3.5,3.1
+44,Connecticut College,46,58.0,78.0,3.6,3.5
+45,DePauw University,46,48.0,57.0,3.5,3.55
+46,Dickinson College,46,59.0,76.0,3.5,3.42
+47,Furman University,46,60.0,68.0,3.6,3.44
+48,Trinity College,46,55.0,63.0,3.6,3.5
+49,Whitman College,46,40.0,53.0,3.5,3.68
+50,Centre College,53,52.0,69.0,3.5,3.63
+51,Gettysburg College,53,49.0,85.0,3.5,3.69
+52,Rhodes College,53,55.0,77.0,3.6,3.6
+53,Wabash College,53,71.0,52.0,3.4,3.25
+54,Spelman College,53,87.0,77.0,3.7,2.96
+55,Agnes Scott College,58,88.0,70.0,3.4,3.1
+56,Lawrence University,58,66.0,69.0,3.4,3.29
+57,St. Lawrence University,58,75.0,89.0,3.3,3.29
+58,Wheaton College,58,58.0,89.0,3.2,3.5
+59,Bard College,62,85.0,106.0,3.5,3.21
+60,St. Olaf College,62,66.0,77.0,3.7,3.43
+62,St. John College,64,79.0,68.0,3.4,3.04
+63,College of Wooster,66,75.0,80.0,3.4,3.38
+64,Knox College,66,91.0,89.0,3.2,3.13
+65,Cornell College,68,116.0,103.0,3.1,2.87
+67,Sarah Lawrence College,68,93.0,107.0,3.4,3.07
+68,Willamette University,68,81.0,93.0,3.2,3.34
+69,Hobart and William Smith College,72,86.0,93.0,3.3,3.17
+70,Kalamazoo College,72,67.0,79.0,3.4,3.57
+71,Lewis & Clark College,72,102.0,106.0,3.4,3.11
+72,Muhlenberg College,72,67.0,88.0,3.1,3.37
+73,St. John_s College,72,100.0,71.0,3.3,2.94
+74,Transylvania University,72,92.0,77.0,2.9,3.11
+75,Virginia Military Institute,72,79.0,61.0,3.2,3.1
+76,Wofford College,72,76.0,87.0,3.2,3.28
+77,Earlham College,80,78.0,53.0,3.3,3.3
+78,Illinois Wesleyan University,80,69.0,85.0,3.1,3.32
+79,Allegheny College,82,102.0,88.0,3.2,3.01
+80,Beloit College,82,101.0,87.0,3.1,2.87
+81,College of St. Benedict,82,95.0,120.0,3.0,3.11
+82,College of the Atlantic,82,94.0,78.0,2.8,3.1
+83,Juniata College,82,95.0,99.0,2.8,3.07
+84,Ursinus College,82,94.0,94.0,3.0,2.97
+85,Wheaton College,82,58.0,89.0,3.2,3.5
+86,Bennington College,89,100.0,120.0,2.9,3.23
+87,Gustavus Adolphus College,89,86.0,101.0,3.2,3.16
+88,University of Puget Sound,89,93.0,84.0,3.3,3.09
+89,Augustana College,92,94.0,107.0,3.1,3.09
+90,Hendrix College,92,83.0,78.0,3.3,3.32
+91,Lake Forest College,92,104.0,110.0,3.0,3.0
+92,Ohio Wesleyan University,92,104.0,81.0,3.1,2.93
+93,Southwestern University,92,89.0,74.0,3.0,3.2
+94,St. John_s University,92,102.0,91.0,3.2,2.88
+95,St. Mary_s College of Maryland,92,109.0,140.0,3.0,2.83
+96,Washington and Jefferson College,92,107.0,93.0,3.0,3.02
+97,Luther College,100,101.0,100.0,3.1,3.01
+98,Principia College,100,50.0,27.0,2.1,3.24
+99,Hollins University,102,110.0,69.0,2.8,2.89
+100,New College of Florida,102,100.0,113.0,3.1,3.03
+101,Saint Mary_s College,102,86.0,89.0,2.9,3.08
+102,Elizabethtown College,105,98.0,117.0,2.7,3.05
+103,Hanover College,105,111.0,86.0,2.8,2.96
+104,Hope College,105,81.0,105.0,3.0,3.27
+105,Ripon College,105,121.0,90.0,2.7,2.79
+106,Washington College,105,85.0,78.0,2.9,3.17
+107,Whittier College,105,128.0,107.0,3.1,2.74
+108,Goucher College,111,116.0,95.0,3.1,2.79
+110,Randolph-Macon College,111,108.0,91.0,3.0,2.84
+111,Grove City College,114,90.0,113.0,2.5,3.18
+112,St. Anselm College,114,87.0,103.0,2.7,3.11
+113,Westminster College,114,122.0,95.0,2.7,2.72
+114,Austin College,117,112.0,92.0,3.0,2.95
+115,College of Idaho,117,114.0,94.0,2.6,2.84
+116,Drew University,117,108.0,122.0,2.9,2.88
+117,Linfield College,117,98.0,98.0,2.7,3.02
+118,Lycoming College,117,117.0,76.0,2.6,2.86
+119,Susquehanna University,117,106.0,104.0,3.0,2.93
+120,Westmont College,117,108.0,107.0,2.7,2.96
+121,Houghton College,124,95.0,112.0,2.4,3.07
+122,Millsaps College,124,61.0,90.0,3.0,3.97
+123,Monmouth College,124,127.0,87.0,2.7,2.73
+124,St. Michael_s College,124,108.0,118.0,2.8,2.96
+125,Stonehill College,124,97.0,100.0,2.7,2.99
+127,Coe College,130,122.0,108.0,2.9,2.86
+128,Roanoke College,130,115.0,103.0,2.9,2.81
+130,Randolph College,132,130.0,66.0,2.6,2.62
+131,Saint Vincent College,132,167.0,323.0,2.3,2.35
+132,Salem College,132,103.0,105.0,2.3,3.13
+133,Illinois College,136,126.0,84.0,2.6,2.76
+135,Moravian College,136,123.0,118.0,2.5,2.73
+140,Massachusetts College of Liberal Arts,140,151.0,169.0,2.5,2.56
+141,Presbyterian College,140,120.0,106.0,2.8,2.83
+142,Franklin College,145,131.0,98.0,2.6,2.65
+144,Wesleyan College,145,125.0,102.0,2.9,2.68
+145,Covenant College,148,107.0,123.0,2.3,3.0
+146,Emory and Henry College,148,136.0,105.0,2.7,2.63
+147,Meredith College,148,124.0,110.0,2.6,2.74
+148,University of Minnesota--Morris,148,134.0,165.0,2.7,2.76
+149,University of North Carolina--Asheville,148,152.0,157.0,3.1,2.55
+151,Guilford College,154,159.0,113.0,3.0,2.45
+153,Sweet Briar College,154,159.0,70.0,2.2,2.46
+154,Centenary College of Louisiana,157,113.0,69.0,2.4,2.85
+155,Georgetown College,157,162.0,136.0,2.5,2.44
+156,Westminster College,157,122.0,95.0,2.7,2.72
+158,Hartwick College,160,145.0,107.0,2.6,2.47
+159,Warren Wilson College,160,169.0,105.0,2.7,2.34
+160,Wittenberg University,160,141.0,108.0,2.8,2.62
+161,Albright College,164,159.0,126.0,2.5,2.51
+165,Bennett College,168,225.0,138.0,2.2,1.84
+166,Bethany College,169,169.0,105.0,2.3,2.29
+167,Bethany Lutheran College,170,127.0,105.0,2.1,2.59
+168,Bethune-Cookman University,171,208.0,162.0,2.3,2.09
+169,Blackburn College,172,174.0,122.0,2.2,2.29
+173,Chowan University,175,243.0,146.0,2.0,1.81
+176,Emmanuel College,178,133.0,109.0,2.4,2.7
+178,Fort Lewis College,180,214.0,201.0,2.6,2.08
+179,Gordon College,181,113.0,133.0,2.4,2.86
+184,Louisiana State University--Alexandria,186,233.0,182.0,2.1,1.99
+186,Mansfield University of Pennsylvania,188,197.0,251.0,2.0,2.1
+189,Oglethorpe University,191,148.0,135.0,3.0,2.69
+195,Oglethorpe University,197,148.0,135.0,3.0,2.69
+202,Spring Hills College,204,147.0,155.0,2.3,2.6
+205,Tougaloo College,207,150.0,146.0,2.3,2.63
+206,University of Pikeville,208,211.0,166.0,2.1,2.1
+210,University of Virginia Wise,212,157.0,118.0,2.5,2.49
+211,University of Wisconsin Superior,213,192.0,178.0,2.0,2.22
+212,Virginia Union University,214,205.0,142.0,2.1,2.14
+213,Virginia Wesleyan University,215,179.0,122.0,2.5,2.27
+214,Williams Baptist University,216,198.0,130.0,1.8,2.16
